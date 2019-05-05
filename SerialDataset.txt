@@ -1,0 +1,7 @@
+N	81	Serial	 simulation_time	0.000341
+N	162	Serial	 simulation_time	0.001467
+N	810	Serial	 simulation_time	0.038006
+N	1215	Serial	 simulation_time	0.084442
+N	1620	Serial	 simulation_time	0.150803
+N	2025	Serial	 simulation_time	0.236189
+N	2430	Serial	 simulation_time	0.340635

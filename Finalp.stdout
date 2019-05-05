@@ -1,0 +1,15 @@
+N: 16, NPixels: 8, NBlocks: 2, Radius: 1, Serial ST: 1e-05 s
+N: 32, NPixels: 8, NBlocks: 4, Radius: 1, Serial ST: 5.4e-05 s
+N: 64, NPixels: 8, NBlocks: 8, Radius: 1, Serial ST: 0.000249 s
+N: 128, NPixels: 8, NBlocks: 16, Radius: 1, Serial ST: 0.001057 s
+N: 256, NPixels: 8, NBlocks: 32, Radius: 1, Serial ST: 0.004348 s
+N: 512, NPixels: 8, NBlocks: 64, Radius: 1, Serial ST: 0.016416 s
+N: 1024, NPixels: 8, NBlocks: 128, Radius: 1, Serial ST: 0.063312 s
+N: 16, threads: 1, NPixels: 8, NBlocks: 2, Radius: 1, OpenMP ST: 2.8e-05 s
+N: 32, threads: 1, NPixels: 8, NBlocks: 4, Radius: 1, OpenMP ST: 0.012262 s
+N: 64, threads: 1, NPixels: 8, NBlocks: 8, Radius: 1, OpenMP ST: 0.003416 s
+N: 128, threads: 1, NPixels: 8, NBlocks: 16, Radius: 1, OpenMP ST: 0.003927 s
+N: 128, threads: 1, NPixels: 8, NBlocks: 16, Radius: 1, OpenMP ST: 0.005696 s
+N: 256, threads: 1, NPixels: 8, NBlocks: 32, Radius: 1, OpenMP ST: 0.010973 s
+N: 512, threads: 1, NPixels: 8, NBlocks: 64, Radius: 1, OpenMP ST: 0.003521 s
+N: 1024, threads: 1, NPixels: 8, NBlocks: 128, Radius: 1, OpenMP ST: 0.007482 s

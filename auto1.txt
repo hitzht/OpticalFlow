@@ -1,0 +1,6 @@
+./Matching_Ver1 -n 81 
+./Matching_Ver1 -n 162
+./Matching_Ver1 -n 810
+./Matching_Ver1 -n 1215
+./Matching_Ver1 -n 1215
+./Matching_Ver1 -n 1620

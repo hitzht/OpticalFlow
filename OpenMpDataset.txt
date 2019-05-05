@@ -1,0 +1,7 @@
+N	81	OpenMP	 simulation_time	0.00047
+N	162	OpenMP	 simulation_time	0.000644
+N	810	OpenMP	 simulation_time	0.003556
+N	1215	OpenMP	 simulation_time	0.007374
+N	1620	OpenMP	 simulation_time	0.012623
+N	2025	OpenMP	 simulation_time	0.019073
+N	2430	OpenMP	 simulation_time	0.026151

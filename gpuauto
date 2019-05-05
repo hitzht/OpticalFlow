@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH -J gpu
+#SBATCH -o gpu.stdout
+#SBATCH -n 1         
+#SBATCH -p gpu
+#SBATCH -t 00:10:00     
+./Matching_Ver4 -n 16 -o gpu.txt
+./Matching_Ver4 -n 32 -o gpu.txt
+./Matching_Ver4 -n 64 -o gpu.txt
+./Matching_Ver4 -n 128 -o gpu.txt
+./Matching_Ver4 -n 256 -o gpu.txt
+./Matching_Ver4 -n 512 -o gpu.txt
+./Matching_Ver4 -n 1024 -o gpu.txt
+./autocorrect -s gpu.txt

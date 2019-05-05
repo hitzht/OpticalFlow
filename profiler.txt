@@ -1,0 +1,1 @@
+N: 64, NPixels: 8, NBlocks: 8, Radius: 1, Threads: 256, Blocks: 1024, GPGPU ST: 0.000675028, CT: 7.6e-05
